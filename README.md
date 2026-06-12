@@ -48,7 +48,7 @@ The architecture combines automated data ingestion, advanced Aspect-Based Sentim
 
 
 
-
+**AI helped the pipeline moved faster, as I've finished a similar project before
 
 
 *************for da real onez:
