@@ -45,3 +45,11 @@ The architecture combines automated data ingestion, advanced Aspect-Based Sentim
 2. Run data extraction: `python extragere_masiva_api.py`
 3. Execute the NLP pipeline: `python absa_nlp.py`
 4. Generate the final Monte Carlo simulation: `python vizualizare_si_monte_carlo.py`
+
+
+
+
+
+
+*************for da real onez:
+Din Coreea Cricovului în Inima Europei: O Concluzie Istorică și Data-Driven despre MoreniAcest proiect demonstrează modul în care tehnicile moderne de Data Science și Inteligență Artificială pot aduce la lumină istorii uitate [6212, Maastricht]. Prin analiza NLP a peste 3.000 de documente din arhivele olandeze și modelarea probabilistică Monte Carlo, cercetarea a transformat trecutul industrial al orașului Moreni dintr-o simplă nostalgie locală într-un model econometric clar.📑 Principalele Concluzii ale Proiectului:Pionierat Tehnologic și Globalizare: Documentele din arhivele olandeze (Delpher) confirmă că Moreniul nu a fost doar o schelă petrolieră regională, ci o superputere energetică interbelică. Companii globale precum Royal Dutch Shell (Astra Română) și Standard Oil au transformat Valea Cricovului într-un hub cosmopolit, unde inovațiile (cum a fost Ventilul Tacit) se testau în premieră mondială.Costul Istoric al Naționalizării (1948): Simularea financiară scoate la iveală adevăratul preț economic plătit de comunitatea locală prin confiscarea resurselor de către regimul comunist și gestionarea centralizată ulterioară. Din punct de vedere matematic, Moreniul a fost privat de un avantaj competitiv uriaș.Puterea Dobânzii Compuse și Scenariul Median: Rularea modelului contrafaptic arată că, într-un scenariu capitalist de tip Texas sau Norvegia, acumularea redevențelor locale într-un Fond Suveran ar fi generat o valoare mediană de 9.82 miliarde USD în anul 2026. Acest capital ar fi transformat Moreniul într-un etalon al nivelului de trai din Europa de Est, cu o infrastructură ultra-modernă și un profil demografic internațional.
