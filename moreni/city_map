@@ -1,0 +1,13 @@
+import osmnx as ox
+
+# Setează locul de interes
+place_name = "Moreni, Dâmbovița, Romania"
+
+# Descarcă rețeaua de drumuri (sau poți folosi 'polygon' pentru conturul orașului)
+G = ox.graph_from_place(place_name, network_type='all')
+
+# Salvează datele pentru a le folosi ulterior în vizualizarea ta (Geopandas/Folium)
+nodes, edges = ox.graph_to_gdfs(G)
+
+# Acum ai un GeoDataFrame cu toate străzile și nodurile (intersecțiile)
+print(nodes.head())
