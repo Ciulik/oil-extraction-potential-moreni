@@ -5,6 +5,11 @@ This project is an end-to-end Data Science and Applied Mathematics pipeline expl
 
 The architecture combines automated data ingestion, advanced Aspect-Based Sentiment Analysis (ABSA) on historical Dutch archives, physical well-decline regression, and stochastic financial modeling.
 
+<img width="613" height="515" alt="image" src="https://github.com/user-attachments/assets/cabfe532-65ab-4d84-8467-3acc18749a39" />
+
+link for demo (auto-download html) (https://media.base44.com/files/public/6a56ce2da4ebc6d6e69009b0/1ee18bb70_Digital_Twin_HeatMap_Moreni.html)
+
+
 ## ⚙️ Architecture & Pipeline
 1. **Data Ingestion (`extragere_masiva_api.py`)**: Automated SRU API scraper communicating with the National Library of the Netherlands (Delpher), extracting 3,000+ historical documents regarding Astra Română operations.
 2. **Aspect-Based Sentiment Analysis (`absa_nlp.py`)**: Dual-model NLP architecture running on a local CUDA environment. Utilizes `mDeBERTa-v3-base-mnli-xnli` for zero-shot aspect classification and `bert-base-multilingual-uncased-sentiment` for polarity extraction.
